@@ -8,9 +8,6 @@ describe "Academia de Magia" {
 	 * se debe remover la declaración de la variable y la línea en que se sugiere la instanciación.
 	 */
 	var academia
-	var cuchuflito
-	var acme
-	var fenix
 	var pelota
 	var escoba
 	var varita
