@@ -169,7 +169,17 @@ Armar por fuera de la academia un baul mágico de volumen 12, con la lampara de 
    Pero en un escenario en el cual la academia tenga solo el armario y el baul no debería poder realizarse.
 
 
+# Acerca de los tests
+Este enunciado es acompañado con el archivo cuarenta.wtest que tiene diseñado los test a realizar. 
+Es importante aclarar que:
+- Estos test se proponen para facilitar el desarrollo. Se puede diseñar otros si así se considera necesario.
+- El conjunto de tests propuesto es suficiente para este ejercicio. No hace falta agregar nuevos, pero tampoco se prohibe hacerlo.
+- Todos los objetos allí usados se asumen como instancias de una clase. Si el diseño de la solución utiliza
+objetos bien conocidos en algunos casos entonces se debe remover la declaración de la variable
+ y la línea en que se sugiere la instanciación.
+- Según el diseño de la solución, es probable que se requiera agregar más objetos a los sugeridos en los tests.
+- Los tests están comentados de manera de poder ir incorporándolos a medida que se avanza 
+con la solución del ejercicio.
 
-    
 
 
