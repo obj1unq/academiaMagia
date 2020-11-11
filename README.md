@@ -129,7 +129,7 @@ un baul no mágico.
 
 ### Escenario de prueba.
 
-Al mismo escenario de del punto 1 se le agrega la pava al armario y la lámpara de aladino al gabinete.
+Al mismo escenario del punto 1 se le agrega la pava al armario y la lámpara de aladino al gabinete.
 El gabinete tiene 6 de precio.
 
 Armar por fuera de la academia un baul mágico de volumen 12, con la lampara de aladino y la escoba mágica.
