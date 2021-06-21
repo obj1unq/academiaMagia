@@ -4,6 +4,20 @@ En una academia de magia siempre hay lío para encontrar las cosas que se guarda
 tanto es así que han decidido hacer un software que ayude a la administración de los muebles 
 y cosas guardadas
 
+## Aclaraciones sobre el parcial
+- El parcial es **individual** y se entrega **pusheando a este repositorio** como en las entregas anteriores. Recomendamos _ir pusheando cada cierto tiempo_ para evitar inconvenientes, lo ideal es después de cada punto resuelto.
+- No se tendrán en cuenta los commits realizados después de la hora de finalización del examen.
+- Una vez hecho el _push_ final, **verifiquen en github.com** que haya quedado la versión final. Nosotros corregiremos lo que está en github, si ustedes lo pueden ver ahí entonces nosotros también.
+- No olvidarse de **los conceptos aprendidos**: polimorfismo, delegación, buenas abstracciones, no repetir lógica, guardar vs calcular, lanzar excepción cuando un método no puede cumplir con su responsabilidad, etc. Eso es lo que se está evaluando.
+- La solución del examen consiste en la **implementación de un programa** que resuelva los requerimientos pedidos y sus **tests automatizados**.
+- Este enunciado es acompañado con un archivo `.wtest` que tiene diseñado los test a realizar. Es importante aclarar que:
+  - Estos tests se proponen para facilitar el desarrollo. Se puede diseñar otros si así se considera necesario.
+  - El conjunto de tests propuesto es suficiente para este ejercicio. No hace falta agregar nuevos, pero tampoco se prohibe hacerlo.
+  - Todos los objetos allí usados se asumen como instancias de una clase. Si el diseño de la solución utiliza objetos bien conocidos en algunos casos entonces se debe remover la declaración de la variable y la línea en que se sugiere la instanciación
+  - Según el diseño de la solución, es probable que se requiera agregar más objetos a los sugeridos en los tests
+  - Los tests están comentados de manera de poder _ir incorporándolos a medida que se avanza_ con la solución del ejercicio
+
+
 
 ## Parte 1:  Muebles y cosas
 
@@ -167,19 +181,6 @@ Armar por fuera de la academia un baul mágico de volumen 12, con la lampara de 
    En este caso se debería remover solo la pelota. 
 
    Pero en un escenario en el cual la academia tenga solo el armario y el baul no debería poder realizarse.
-
-
-# Acerca de los tests
-Este enunciado es acompañado con el archivo cuarenta.wtest que tiene diseñado los test a realizar. 
-Es importante aclarar que:
-- Estos test se proponen para facilitar el desarrollo. Se puede diseñar otros si así se considera necesario.
-- El conjunto de tests propuesto es suficiente para este ejercicio. No hace falta agregar nuevos, pero tampoco se prohibe hacerlo.
-- Todos los objetos allí usados se asumen como instancias de una clase. Si el diseño de la solución utiliza
-objetos bien conocidos en algunos casos entonces se debe remover la declaración de la variable
- y la línea en que se sugiere la instanciación.
-- Según el diseño de la solución, es probable que se requiera agregar más objetos a los sugeridos en los tests.
-- Los tests están comentados de manera de poder ir incorporándolos a medida que se avanza 
-con la solución del ejercicio.
 
 
 
