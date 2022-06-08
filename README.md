@@ -138,7 +138,7 @@ cosas que almacena son reliquias, también suma 1 por cada elemento mágico, per
 un baul no mágico.
 
 ```
- (sumatoria(utilidad de las cosas) / precio_del_baul_magico ) + 2_siTodasSonReliquias + cantidadDeReliquias 
+ (sumatoria(utilidad de las cosas) / precio_del_baul_magico ) + 2_siTodasSonReliquias + cantidadDeElementosMagicos 
 ```
 
 ### Escenario de prueba.
